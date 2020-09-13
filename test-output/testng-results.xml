@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2020-09-13T21:51:19Z" finished-at="2020-09-13T21:51:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2020-09-13T21:51:19Z" finished-at="2020-09-13T21:51:19Z">
+      <class name="jenkins.jenkinsmaven.Arjun">
+        <test-method status="PASS" signature="arjunmethod()" name="arjunmethod" duration-ms="19" started-at="2020-09-13T21:51:19Z" finished-at="2020-09-13T21:51:19Z">
+        </test-method>
+      </class>
+      <class name="jenkins.jenkinsmaven.Chamu">
+        <test-method status="PASS" signature="chamunmethod()" name="chamunmethod" duration-ms="2" started-at="2020-09-13T21:51:19Z" finished-at="2020-09-13T21:51:19Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

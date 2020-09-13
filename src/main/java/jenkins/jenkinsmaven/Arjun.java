@@ -1,7 +1,10 @@
 package jenkins.jenkinsmaven;
 
+import org.testng.annotations.Test;
+
 public class Arjun {
-public static void main(String[] args) {
+	@Test
+public void arjunmethod(){
 	System.out.println("arjun asked me");
 }
 }
